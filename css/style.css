@@ -31,6 +31,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,:after,:before{backgr
  }
  .txt-box>h1{
   font-size: 32px;
+  margin-bottom: 50px;
  }
  .txt-box>p{
   font-size: 16px;
